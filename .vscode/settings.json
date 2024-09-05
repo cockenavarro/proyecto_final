@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": ["./app"],
+  "python.defaultInterpreterPath": "C:/Users/cocke/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.12"
+}
+
